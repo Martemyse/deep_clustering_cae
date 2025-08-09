@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow>=2.9,<2.14
+keras
+matplotlib
+seaborn
+h5py
+vallenae
+pyts
+nptdms
+plotly

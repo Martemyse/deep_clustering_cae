@@ -1,0 +1,30 @@
+data/
+outputs/
+models/
+checkpoints/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Binary artifacts
+*.h5
+*.pkl
+*.ckpt
+*.npz
+*.npy
+*.joblib
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
